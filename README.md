@@ -305,8 +305,6 @@ CDM Blockchain.info wallet.
 
 ## Getting Started
 
-To use this API, you will need to run small local service which be responsible for managing your Blockchain.info wallet. Your application interacts with this service locally via HTTP API calls.
-
 Start by completing the following steps:
 
   1. Follow the [installation instructions](#installation)
