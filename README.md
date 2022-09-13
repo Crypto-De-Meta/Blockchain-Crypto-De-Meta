@@ -310,7 +310,7 @@ To use this API, you will need to run small local service which be responsible f
 Start by completing the following steps:
 
   1. Follow the [installation instructions](#installation)
-  2. Start the server: `$ blockchain-wallet-service start --port 3000`
+  2. Start the server: `$ CDM-blockchain-wallet-service start --port 3000`
   3. Reference the [documentation](#api-documentation) and start interacting with your wallet programmatically!
 
 Note that `blockchain-wallet-service` is designed to be run locally on the same machine as your application and therefore will only accept connections from `localhost`. If you modify this service to accept external connections, be sure to add the appropriate firewall rules to prevent unauthorized use.
